@@ -1,0 +1,20 @@
+{
+"tareas":
+        [{
+            "titulo": "Programar",
+            "estado" :"terminada"
+        },
+        {
+            "titulo": "vivir",
+            "estado": "en proceso"
+        },
+        {
+            "titulo":"morir",
+            "estado":"pendiete"
+        }
+         ]
+}
+
+
+  
+
